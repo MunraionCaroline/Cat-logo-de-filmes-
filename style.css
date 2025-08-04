@@ -1,6 +1,6 @@
 body {
-    background-color: #2E8B57;
-    color: black;
+    background-color: black;
+    color: blue;
 
    font-family: "Edu VIC WA NT Hand Pre", cursive;
 
@@ -18,7 +18,7 @@ p {
 
 header {
     font-size: 60px;
-    border-bottom: 5px inset  #FFE4E1;
+    border-bottom: 5px inset  white;
     padding: 30px;
     color: rgb(243, 202, 99);
     text-align: center;
